@@ -1,7 +1,7 @@
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords(); // комментарий
-        checkSumSign();
+        checkSumSign(); // комментарий 2
         printColor();
         compareNumbers();
     }
