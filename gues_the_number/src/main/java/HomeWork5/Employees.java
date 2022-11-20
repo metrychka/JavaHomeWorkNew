@@ -12,9 +12,6 @@ public class Employees {
         System.out.println(String.format("Сотрудник %s в должности %s с электронным адресом %s номер телефона %s зарплата %s и возраст %s лет" ,fio,job,email, tel, salary,age ));
     }
 
-    {
-
-    }
     public Employees(String fio, String job, String email, int tel, int salary, int age) {
         this.fio = fio;
         this.job = job;
